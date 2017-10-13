@@ -1,0 +1,5 @@
+com\ksfe\controller\HomeController.class
+com\ksfe\model\Query.class
+com\ksfe\configuration\SpringConfiguration.class
+com\ksfe\configuration\HibernateConfiguration.class
+com\ksfe\configuration\AppInitialiser.class
